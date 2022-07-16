@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanguyen333
 - 👀 I’m interested in java, and web development
 - 🌱 I’m currently learning computer programming at Algonquin College level 3
-- 💞️ I’m looking to collaborate on any projects
+- 💞️
 - 📫 How to reach me nguy0961@algonquinlive.com
 
 <!---
