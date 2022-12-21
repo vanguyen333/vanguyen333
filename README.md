@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanguyen333
-- 👀 I’m interested in java, and web development
-- 🌱 I’m currently learning computer programming at Algonquin College level 3
+- 👀 Full stack developer
+- 🌱 I’m currently learning computer programming at Algonquin College level 4  
 - 💞️
 - 📫 How to reach me nguy0961@algonquinlive.com
 
