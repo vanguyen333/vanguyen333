@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanguyen333
 - 👀 Full stack developer
 - 🌱 Algonquin College - Computer Programming
-- 💞️ Java, Web dev: HTML5, CSS, JavaScript, ReactJS, Database(SQL, NoSQL, MongoDB), Cobol, Wordpress
+- 💞️ Java, Web dev( HTML5, CSS, JavaScript, ReactJS), Database(SQL, NoSQL, MongoDB), Cobol, Wordpress
 - 📫 How to reach me nguy0961@algonquinlive.com
 
 <!---
