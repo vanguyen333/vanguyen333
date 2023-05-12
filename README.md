@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanguyen333
 - 👀 Full stack developer
-- 🌱 I’m currently learning computer programming at Algonquin College level 4  
-- 💞️
+- 🌱 Algonquin College - Computer Programming
+- 💞️ Java, Web dev: HTML5, CSS, JavaScript, ReactJS, Database(SQL, NoSQL, MongoDB), Cobol, Wordpress
 - 📫 How to reach me nguy0961@algonquinlive.com
 
 <!---
