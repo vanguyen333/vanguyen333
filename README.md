@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Van Nguyen
 - 👀 Full stack developer
 - 🌱 Algonquin College - Computer Programming
-- 💞️ Java, Web dev( HTML5, CSS, JavaScript, ReactJS, NodeJS), Database(SQL, NoSQL, MongoDB), Cobol, Wordpress
+- 💞️ Java, Web dev( HTML5, CSS, JavaScript, ReactJS, NodeJS, PHP, Vite, tailwindcss), Database(SQL, NoSQL, MongoDB, Neo4j, Oracle DB), Cobol, Wordpress
 - 📫 How to reach me nguy0961@algonquinlive.com
 
 <!---
