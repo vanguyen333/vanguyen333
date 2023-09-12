@@ -1,5 +1,5 @@
 <h1> 👋Van Nguyen - Full Stack Developer</h1>
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?resize=400x0"/>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >I am a passionate, athletic full stack and computer programming student from Algonquin College. I love learning new programming languages and technologies. </p>
 <br>
 <div align="center">
