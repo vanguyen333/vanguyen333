@@ -16,66 +16,40 @@ Email me: vanguyen333@yahoo.com
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
+<h3>Programming languages</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />  
+</p>
+<h3>Frameworks and libraries</h3>
+<p>
+ <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+<h3>Databases</h3>
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4J-grey?style=flat-square&logo=neo4j&logoColor=white" />
+</p>
+<h3>Software and tools</h3>
+<p>
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-yellow?style=flat-square&logo=vite&logoColor=white" />
+<img alt="TailwindCss" src="https://img.shields.io/badge/-tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=73eafa" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-e4c7fc?style=flat-square&logo=linux&logoColor=black" />
+<img alt="VSCODE" src="https://img.shields.io/badge/-vscode-e5faaf?style=flat-square&logo=visual studio code&logoColor=73eafa" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img alt="Zoom" src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
+    <img alt="Google Meet" src="https://img.shields.io/badge/-Google%20Meet-00897B?style=flat-square&logo=google-meet&logoColor=white" />
+    <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm" />
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide" />
+     <img alt="Docker" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker" />
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-</div>
-<br>
-<br>
-
-<!---
-vanguyen333/vanguyen333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
