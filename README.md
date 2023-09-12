@@ -39,6 +39,7 @@ Email me: vanguyen333@yahoo.com
 </p>
 <h3>Software and tools</h3>
 <p>
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-grey?style=flat-square&logo=android&logoColor=green" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-yellow?style=flat-square&logo=vite&logoColor=white" />
 <img alt="TailwindCss" src="https://img.shields.io/badge/-tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=73eafa" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-e4c7fc?style=flat-square&logo=linux&logoColor=black" />
