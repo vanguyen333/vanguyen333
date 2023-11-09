@@ -27,7 +27,9 @@ Email me: vanguyen333@yahoo.com
 </p>
 <h3>Frameworks and libraries</h3>
 <p>
- <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />  
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-F7DF1E?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 <h3>Databases</h3>
 <p>
